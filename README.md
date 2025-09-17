@@ -45,15 +45,16 @@ CampusPrint solves this with:
 ✔ High-quality printing services
 
 📸 Preview
+## 🎨 Figma Design
+You can explore the full design prototype here:  
+[👉 View on Figma](https://www.figma.com/design/T0Kgt0L0399525fpPMTCpW/DocoPrint-UI-UX-Assessment?node-id=0-1&t=Wa8IHn2gJzmNk640-1)
 
 **👩‍💻 Author**
-
 Bommasani Rasmini Devi
 
-💼 Aspiring UI/UX Designer & Developer
+**💼 Aspiring UI/UX Designer & Developer**
 
 🌐 https://github.com/22A91A61E1
-
 📧 bommasanirasminidevi@gmail.com
 
 **🔮 Future Scope**
